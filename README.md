@@ -1,3 +1,30 @@
+Name: Madisetty Bhanu Kiran
+
+Semester: 3rd
+
+USN: 1WN24CS150
+
+College Email: bhanukiran.cs24@bmsce.ac.in
+
+
+LeetCode Profile: https://leetcode.com/u/bhanukiran29/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # 🚀 BitByBit-Leetcode
 
 Welcome to **BitByBit-Leetcode** — a collaborative space to track and share your progress on **LeetCode** problems.
